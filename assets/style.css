@@ -1,0 +1,61 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    .encabezado {
+        background-color: rgb(222, 234, 234);
+        padding: 10px;
+        background-image: url(./img/001-vinilo.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: 70%;
+        padding: 10px;
+    }
+
+    .texto_encabezado {
+        padding: 50px;
+        font-size: 200%;
+        letter-spacing: 5px;
+        line-height: 0.2;
+
+
+    }
+
+    .discos {
+        background-color: rgb(222, 234, 234);
+        padding: 20px;
+
+    }
+
+    .imagen {
+        padding: 10px;
+    }
+
+    .descripcion {
+        font-size: medium;
+        padding: 25px;
+        margin: 35px;
+        text-align: left;
+        line-height: 0.2;
+
+    }
+
+
+    .violator {
+        display: flex;
+
+    }
+
+    .angel {
+        display: flex;
+    }
+
+    .music {
+        display: flex;
+    }
+
+    .fin_pagina {
+        padding: 10px;
+        text-align: center;
+        background-color: rgb(222, 234, 234)
+    }
+}
